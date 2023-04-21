@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AAAA;AACA,mDAAmD,aAAa;AAChE,CAAC,C","sources":["webpack://gameportfolio/./src/js/script.js"],"sourcesContent":["window.addEventListener('scroll', function() {\r\n    document.body.style.cssText += `--scrollTop: ${this.scrollY}px`;\r\n})"],"names":[],"sourceRoot":""}
